@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SUDHARSANA SARAVANAN</h1>
 <h3 align="center">A B.Tech CSE student from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharsansaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsansaravanan" /> </p>
 
 - 🌱 I’m currently learning **python,java,html,css,javascript**
