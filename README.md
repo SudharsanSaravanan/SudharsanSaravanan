@@ -1,5 +1,5 @@
 ![logo](https://github.com/SudharsanSaravanan/SudharsanSaravanan/blob/main/git_banner.png)
-<h1 align="center">Hi 👋, I'm SUDHARSANA SARAVANAN</h1>
+<h1 align="center">Hi👋, THIS IS SUDHARSAN SARAVANAN</h1>
 <h3 align="center">A B.TECH CSE STUDENT</h3>
 
 <img align="right" alt="coding" width="300" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
