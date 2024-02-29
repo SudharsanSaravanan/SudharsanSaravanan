@@ -1,3 +1,4 @@
+![logo](https://github.com/SudharsanSaravanan/SudharsanSaravanan/blob/main/git_banner.png)
 <h1 align="center">Hi 👋, I'm SUDHARSANA SARAVANAN</h1>
 <h3 align="center">A B.TECH CSE STUDENT</h3>
 
