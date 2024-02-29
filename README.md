@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SUDHARSANA SARAVANAN</h1>
 <h3 align="center">A B.TECH CSE STUDENT</h3>
 
-<img align="right" alt="coding" width="300" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
+<img align="right" alt="coding" width="300" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharsansaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsansaravanan" /> </p>
 
