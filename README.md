@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@sudharsan-saravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sudharsan-saravanan" height="30" width="40" /></a>
+<a href="https://codepen.io/Sudharsan-Saravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sudharsan-saravanan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sudharsan-saravanan-456544299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sudharsan-saravanan-456544299" height="30" width="40" /></a>
 <a href="https://medium.com/@sudharsansaravanan2623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sudharsansaravanan2623" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sudharsan_777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudharsan_777" height="30" width="40" /></a>
