@@ -22,39 +22,56 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 💭 Random Dev Quote
-> "When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong."
-> 
-> \- Buckminster Fuller
+<div style="background-color: #0D1117; border-radius: 6px; padding: 20px; margin: 10px 0;">
+
+<div style="color: #7FFFD4; font-size: 18px; font-style: italic; line-height: 1.5;">
+"When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong."
+</div>
+
+<div style="color: #FF69B4; font-size: 16px; text-align: right; margin-top: 10px;">
+- Buckminster Fuller
+</div>
+
+</div>
 
 ## ⬆️ Top Contributed Repos
+<div style="background-color: #1e1e1e; border-radius: 6px; padding: 20px; margin: 10px 0;">
+
 ### Sudharsan S' GitHub Contributor Stats
-<table>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/0?v=4" width="25" height="25" style="border-radius: 50%"></td>
-    <td>DSA_practise</td>
-    <td>⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/0?v=4" width="25" height="25" style="border-radius: 50%"></td>
-    <td>cbe-pizza-delivery-system</td>
-    <td>⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/0?v=4" width="25" height="25" style="border-radius: 50%"></td>
-    <td>mini-cnc-pen-plotter</td>
-    <td>⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/0?v=4" width="25" height="25" style="border-radius: 50%"></td>
-    <td>disease-prediction-from-symptoms</td>
-    <td>⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/0?v=4" width="25" height="25" style="border-radius: 50%"></td>
-    <td>desis-project-group4-financial-literacy-app</td>
-    <td>⭐</td>
-  </tr>
-</table>
+
+<div style="display: flex; align-items: center; gap: 10px; margin: 5px 0;">
+    <img src="https://github.com/github.png" width="20" style="border-radius: 50%;">
+    Repository ⭐
+</div>
+
+<div style="margin-left: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
+        <img src="https://github.com/github.png" width="20" style="border-radius: 50%;">
+        <a href="#" style="color: #58a6ff; text-decoration: none;">DSA_practise</a>
+        <span style="background-color: #333; border-radius: 50%; padding: 2px 8px;">B</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
+        <img src="https://github.com/github.png" width="20" style="border-radius: 50%;">
+        <a href="#" style="color: #58a6ff; text-decoration: none;">cbe-pizza-delivery-system</a>
+        <span style="background-color: #333; border-radius: 50%; padding: 2px 8px;">B</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
+        <img src="https://github.com/github.png" width="20" style="border-radius: 50%;">
+        <a href="#" style="color: #58a6ff; text-decoration: none;">mini-cnc-pen-plotter</a>
+        <span style="background-color: #333; border-radius: 50%; padding: 2px 8px;">B</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
+        <img src="https://github.com/github.png" width="20" style="border-radius: 50%;">
+        <a href="#" style="color: #58a6ff; text-decoration: none;">disease-prediction-from-symptoms</a>
+        <span style="background-color: #333; border-radius: 50%; padding: 2px 8px;">B</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
+        <img src="https://github.com/github.png" width="20" style="border-radius: 50%;">
+        <a href="#" style="color: #58a6ff; text-decoration: none;">desis-project-group4-financial-literacy-app</a>
+        <span style="background-color: #333; border-radius: 50%; padding: 2px 8px;">B</span>
+    </div>
+</div>
+</div>
 
 ## 📧 Contact
 Email: sudharsansaravanan2623@gmail.com
