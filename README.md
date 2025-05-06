@@ -5,20 +5,22 @@
 
 ## Programming Languages & Frameworks
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,mui,threejs,tailwind,nextjs,bootstrap,nodejs,mysql,firebase,axios,rest)
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,haskell,js,html,css,react,vite,mui,threejs,tailwind,nextjs,bootstrap,nodejs,mysql,firebase,arduino)
 
 ---
 
 ## Tools & System
 
-![My Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,eclipse,figma,postman,ubuntu,linux)
+![My Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,matlab,vercel,figma,ubuntu,linux)
 
 ---
 
 ## Connect with Me
 
-<a href="mailto:swetha.cs17@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="[https://www.linkedin.com/in/swetha-cse/](https://www.linkedin.com/in/swetha-c-011099293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
+<a href="mailto:sudharsansaravanan2623@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
+<a href="https://www.linkedin.com/in/sudharsana-saravanan-s-456544299/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
 ---
 
