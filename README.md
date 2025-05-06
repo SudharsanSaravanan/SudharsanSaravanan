@@ -42,7 +42,6 @@
 <h2 align="center"> GitHub Stats </h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SudharsanSaravanan&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Thanus's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SudharsanSaravanan&theme=gotham" alt="GitHub Streak" />
     <br />
     <div align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=react-dark" alt="Github Activity Graph" />
