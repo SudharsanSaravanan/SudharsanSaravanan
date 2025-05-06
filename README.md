@@ -38,5 +38,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SudharsanSaravanan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br>
+<h2 align="center"> GitHub Stats </h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Thanus-Kumaar&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Thanus's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Thanus-Kumaar&theme=gotham" alt="GitHub Streak" />
+    <br />
+    <div align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanus-Kumaar&theme=react-dark" alt="Github Activity Graph" />
+    </div>
+
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
