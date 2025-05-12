@@ -27,7 +27,6 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SudharsanSaravanan&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SudharsanSaravanan&theme=radical&hide_border=true" />
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=react-dark&hide_border=true&area=true" />
 </div>
 
