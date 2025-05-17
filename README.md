@@ -1,19 +1,16 @@
 # ✨About Me: 
 ⚡ HAPPY <br>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!<br><br> <img src="https://komarev.com/ghpvc/?username=SudharsanSaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 
----
 
 ## Programming Languages & Frameworks
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,haskell,js,html,css,react,vite,mui,threejs,tailwind,nextjs,bootstrap,nodejs,mysql,firebase,arduino)
 
----
 
 ## Tools & System
 
 ![My Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,matlab,vercel,figma,ubuntu,linux)
 
----
 
 ## Connect with Me
 
