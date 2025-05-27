@@ -27,12 +27,12 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=react-dark&hide_border=true&area=true" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🍹 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SudharsanSaravanan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
-### ✍️ Random Dev Quote
+### Dev Quote </>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
