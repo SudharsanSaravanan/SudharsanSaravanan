@@ -1,24 +1,6 @@
 # ✨About Me: 
 ⚡︎ HAPPY <br>⚡︎ Fun fact: I can solve a Rubik's cube in under 2 minutes!<br><br> <img src="https://komarev.com/ghpvc/?username=SudharsanSaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 
-
-## Programming Languages & Frameworks
-
-![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,haskell,js,html,css,react,vite,mui,threejs,tailwind,nextjs,bootstrap,nodejs,mysql,firebase,arduino)
-
-
-## Tools & System
-
-![My Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,matlab,vercel,figma,ubuntu,linux)
-
-
-## Connect with Me
-
-<a href="mailto:sudharsansaravanan2623@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.linkedin.com/in/sudharsana-saravanan-s-456544299/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
 ---
 
 # ❄ GitHub Stats:
@@ -37,3 +19,21 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
+
+---
+
+## Programming Languages & Frameworks
+
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,haskell,js,html,css,react,vite,mui,threejs,tailwind,nextjs,bootstrap,nodejs,mysql,firebase,arduino)
+
+## Tools & System
+
+![My Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,matlab,vercel,figma,ubuntu,linux)
+
+
+## Connect with Me
+
+<a href="mailto:sudharsansaravanan2623@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
+<a href="https://www.linkedin.com/in/sudharsana-saravanan-s-456544299/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
