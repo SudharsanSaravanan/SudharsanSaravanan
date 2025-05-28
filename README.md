@@ -1,8 +1,6 @@
 # ✨About Me: 
 ⚡︎ HAPPY <br>⚡︎ Fun fact: I can solve a Rubik's cube in under 2 minutes!<br>⚡︎ B.Tech CSE student committed to delivering software excellence through innovation and best practices.<br><br> <img src="https://komarev.com/ghpvc/?username=SudharsanSaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 
----
-
 # ❄ GitHub Stats:
 <div align="center">
   <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=SudharsanSaravanan&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
