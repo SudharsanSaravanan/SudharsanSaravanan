@@ -23,9 +23,9 @@
 
 # ❄ GitHub Stats:
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SudharsanSaravanan&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=SudharsanSaravanan&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=react-dark&hide_border=true&area=true" />
+  <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=SudharsanSaravanan&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="46%" src="https://nirzak-streak-stats.vercel.app/?user=SudharsanSaravanan&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=chartreuse-dark&hide_border=true&area=true" />
 </div>
 
 ## ❅ GitHub Trophies
@@ -35,5 +35,5 @@
 
 ### Dev Quote </>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
