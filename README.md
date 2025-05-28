@@ -29,11 +29,3 @@
 ## Tools & System
 
 ![My Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,matlab,vercel,figma,ubuntu,linux)
-
-
-## Connect with Me
-
-<a href="mailto:sudharsansaravanan2623@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.linkedin.com/in/sudharsana-saravanan-s-456544299/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
