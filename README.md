@@ -1,5 +1,5 @@
 # ✨About Me: 
-⚡ HAPPY <br>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!<br><br> <img src="https://komarev.com/ghpvc/?username=SudharsanSaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+⚡︎ HAPPY <br>⚡︎ Fun fact: I can solve a Rubik's cube in under 2 minutes!<br><br> <img src="https://komarev.com/ghpvc/?username=SudharsanSaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 
 
 ## Programming Languages & Frameworks
@@ -21,13 +21,14 @@
 
 ---
 
-# 📊 GitHub Stats:
+# ❄ GitHub Stats:
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SudharsanSaravanan&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SudharsanSaravanan&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=SudharsanSaravanan&theme=dark&show_icons=true&hide_border=true&count_private=true" />
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=react-dark&hide_border=true&area=true" />
 </div>
 
-## 🍹 GitHub Trophies
+## ❅ GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SudharsanSaravanan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
