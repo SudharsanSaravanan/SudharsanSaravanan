@@ -3,7 +3,7 @@
 
 ```typescript
 const sudharsan = {
-    mood: "HAPPY ⚡︎",
+    state: "HAPPY ⚡︎",
     funFact: "I can solve a Rubik's cube in under 2 minutes!",
     education: "B.Tech CSE student, Amrita Vishwa Vidyapeetham, Coimbatore.",
     commitment: "Delivering software excellence through innovation and best practices",
