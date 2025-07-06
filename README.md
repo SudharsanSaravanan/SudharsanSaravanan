@@ -1,5 +1,17 @@
-# ✨About Me: 
-⚡︎ HAPPY <br>⚡︎ Fun fact: I can solve a Rubik's cube in under 2 minutes!<br>⚡︎ B.Tech CSE student committed to delivering software excellence through innovation and best practices.<br><br> <img src="https://komarev.com/ghpvc/?username=SudharsanSaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+# ✨About Me:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&vCenter=true&width=440&lines=Full+Stack+Developer;B.Tech+CSE+Student;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+
+```typescript
+const sudharsan = {
+    mood: "HAPPY ⚡︎",
+    funFact: "I can solve a Rubik's cube in under 2 minutes!",
+    education: "B.Tech CSE student, Amrita Vishwa Vidyapeetham, Coimbatore.",
+    commitment: "Delivering software excellence through innovation and best practices",
+    currentlyLearning: ["Advanced React Patterns", "System Design", "DevOps"],
+    hobbies: ["Coding", "Problem Solving", "Open Source Contributing"],
+};
+```
+
 
 # ❄ GitHub Stats:
 <div align="center">
@@ -15,7 +27,7 @@
 
 ### Dev Quote </>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=000000&quote_color=1DB954&author_color=ffffff" />
 </div>
 
 ---
