@@ -7,7 +7,7 @@ const sudharsan = {
     funFact: "I can solve a Rubik's cube in under 2 minutes!",
     education: "B.Tech CSE student, Amrita Vishwa Vidyapeetham, Coimbatore.",
     commitment: "Delivering software excellence through innovation and best practices",
-    currentlyLearning: ["Advanced React Patterns", "System Design", "DevOps"],
+    currentlyLearning: ["System Design", "DevOps"],
     hobbies: ["Coding", "Problem Solving", "Open Source Contributing"],
 };
 ```
