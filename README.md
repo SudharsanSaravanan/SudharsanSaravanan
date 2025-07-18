@@ -20,11 +20,6 @@ const sudharsan = {
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=chartreuse-dark&hide_border=true&area=true" />
 </div>
 
-## ❅ GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SudharsanSaravanan&theme=algolia&no-frame=true&margin-w=4&row=1&column=7" />
-</div>
-
 ### Dev Quote </>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=000000&quote_color=1DB954&author_color=ffffff" />
