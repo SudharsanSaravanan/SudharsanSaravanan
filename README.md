@@ -7,11 +7,10 @@
 
 ```typescript
 const sudharsan = {
-    state: "HAPPY ⚡︎",
-    funFact: "I can solve a Rubik's cube in under 2 minutes!",
+    type: "Thoughtful Collaborator with Drive to Lead.",
     education: "B.Tech CSE student, Amrita Vishwa Vidyapeetham, Coimbatore.",
-    commitment: "Delivering software excellence through innovation and best practices",
-    currentlyLearning: ["System Design", "DevOps"],
+    commitment: "Building resilient systems with courage, code, and creativity.",
+    currentlyLearning: ["System Design", "DevOps", "Blockchain Smart Contracts"],
     hobbies: ["Coding", "Problem Solving", "Open Source Contributing"],
 };
 ```
