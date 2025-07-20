@@ -1,7 +1,7 @@
-<img src="assets/fortis_fortuna.gif" width="1048" alt="Fortune Fortis Adiuvat neon design" />
+<img src="assets/fortis_fortuna.gif" width="1060" alt="Fortune Fortis Adiuvat neon design" />
 
 <div align="left">
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&vCenter=true&width=440&lines=Full+Stack+Developer;B.Tech+CSE+Student;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
