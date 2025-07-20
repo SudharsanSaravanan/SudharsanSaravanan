@@ -23,6 +23,4 @@ const sudharsan = {
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=chartreuse-dark&hide_border=true&area=true" />
 </div>
 
-## My Dev Toolbox
-
 ![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,haskell,js,html,css,solidity,react,vite,mui,threejs,tailwind,nextjs,nodejs,mysql,firebase,mongodb,arduino,git,github,vscode,eclipse,matlab,vercel,ubuntu,linux)
