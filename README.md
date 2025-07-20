@@ -1,4 +1,4 @@
-# ✨About Me:
+<img src="assets/fortune.gif" width="1048" alt="Fortune Fortis Adiuvat neon design" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&vCenter=true&width=440&lines=Full+Stack+Developer;B.Tech+CSE+Student;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 
 ```typescript
