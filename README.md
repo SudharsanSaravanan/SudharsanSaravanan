@@ -26,4 +26,4 @@ const sudharsan = {
 
 ## My Dev Toolbox
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,haskell,js,html,css,solidity,react,vite,mui,threejs,tailwind,nextjs,nodejs,mysql,firebase,mongodb,arduino,git,github,vscode,eclipse,matlab,remix,vercel,ubuntu,linux)
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,haskell,js,html,css,solidity,react,vite,mui,threejs,tailwind,nextjs,nodejs,mysql,firebase,mongodb,arduino,git,github,vscode,eclipse,matlab,vercel,ubuntu,linux)
