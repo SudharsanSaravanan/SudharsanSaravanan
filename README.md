@@ -1,4 +1,4 @@
-<img src="assets/fortune.gif" width="1048" alt="Fortune Fortis Adiuvat neon design" />
+<img src="assets/fortis_fortuna.gif" width="1048" alt="Fortune Fortis Adiuvat neon design" />
 
 <div align="left">
   &nbsp;
