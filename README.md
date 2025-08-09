@@ -28,6 +28,6 @@
 </p>
 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,js,ts,html,css,solidity,react,vite,mui,threejs,tailwind,nextjs,nodejs,mysql,firebase,mongodb,arduino,git,github,vscode,eclipse,matlab,vercel,ubuntu,linux,aws" alt="Skills" />
 </p>
