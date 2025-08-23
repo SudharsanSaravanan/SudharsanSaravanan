@@ -34,30 +34,29 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++ (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="65" height="65" alt="Java"/><br><b>Java (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/haskell.svg" width="65" height="65" alt="Python"/><br><b>Haskell (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="65" height="65" alt="TypeScript"/><br><b>TypeScript (Language)</b></td>
+   <td align="center"><img src="https://skillicons.dev/icons?i=solidity" width="65" height="65" alt="Solidity"/><br><b>Solidity (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML (Markup)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="65" height="65" alt="CSS"/><br><b>CSS (Stylesheet)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="65" height="65" alt="SCSS"/><br><b>SCSS (Library)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" width="65" height="65" alt="Solidity"/><br><b>Solidity (Smart Contracts)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="65" height="65" alt="React"/><br><b>React (Library)</b></td>
-   <td align="center"><img src="https://vitejs.dev/logo.svg" width="65" height="65" alt="Vite"/><br><b>Vite (Tooling)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="65" height="65" alt="MUI"/><br><b>Material UI (Framework)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="65" height="65" alt="React"/><br><b>React (Library)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="65" height="65" alt="Tailwind"/><br><b>Tailwind (Framework)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="65" height="65" alt="Next.js"/><br><b>Next.js (Framework)</b></td>
+   <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js"/><br><b>Next.js (Framework)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="Node.js"/><br><b>Node.js (Runtime)</b></td>
    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65" height="65" alt="MySQL"/><br><b>MySQL (Database)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="65" height="65" alt="Firebase"/><br><b>Firebase (Platform)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" width="65" height="65" alt="Firebase"/><br><b>Cloudinary (Media Platform)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB (Database)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="65" height="65" alt="Arduino"/><br><b>Arduino (IoT)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="65" height="65" alt="GitHub"/><br><b>GitHub (Collaboration)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="65" height="65" alt="Git"/><br><b>Git (VCS)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="65" height="65" alt="GitHub"/><br><b>GitHub (Hosting)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="65" height="65" alt="VS Code"/><br><b>VS Code (IDE)</b></td>
+   <td align="center"><img src="https://skillicons.dev/icons?i=remix" width="65" height="65" alt="Remix"/><br><b>Remix (IDE)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="65" height="65" alt="Eclipse"/><br><b>Eclipse (IDE)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="65" height="65" alt="VS Code"/><br><b>VS Code (IDE)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" width="65" height="65" alt="MATLAB"/><br><b>MATLAB (Tool)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="65" height="65" alt="Vercel"/><br><b>Vercel (Hosting)</b></td>
+   <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel"/><br><b>Vercel (Hosting)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="65" height="65" alt="Ubuntu"/><br><b>Ubuntu (OS)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="65" height="65" alt="Linux"/><br><b>Linux (OS)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="65" height="65" alt="AWS"/><br><b>AWS (Cloud)</b></td>
 </tr>
 </table>
