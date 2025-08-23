@@ -16,9 +16,10 @@
 </p>
 
 <div align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=SudharsanSaravanan&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="48.5%" src="https://nirzak-streak-stats.vercel.app/?user=SudharsanSaravanan&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=chartreuse-dark&hide_border=true&area=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=SudharsanSaravanan&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48.5%" src="https://nirzak-streak-stats.vercel.app/?user=SudharsanSaravanan&show_icons=true&hide_border=true&count_private=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=github-light&hide_border=true&area=true" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudharsanSaravanan" />
 </div>
 
 <hr/>
