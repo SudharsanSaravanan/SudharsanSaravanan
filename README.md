@@ -61,8 +61,10 @@
 </tr>
 </table>
 
+<!--
 <div align="center">
   <a href="https://leetcode.com/u/sudharsansaravanan2623/">
     <img width="95%" src="https://coding-profile.vercel.app/api?username=sudharsansaravanan2623&theme=Light" alt="LeetCode Badge" />
   </a>
 </div>
+-->
