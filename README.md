@@ -60,3 +60,11 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="65" height="65" alt="AWS"/><br><b>AWS (Cloud)</b></td>
 </tr>
 </table>
+
+<div align="center">
+  <a href="https://leetcode.com/u/sudharsansaravanan2623/">
+    <img width="46%" src="https://leetcode-stats.vercel.app/api?username=sudharsansaravanan2623&theme=light" alt="LeetCode Badge" />
+  </a>
+</div>
+
+
