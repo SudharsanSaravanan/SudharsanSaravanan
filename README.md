@@ -63,8 +63,6 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/sudharsansaravanan2623/">
-    <img width="100%" src="https://leetcode-stats.vercel.app/api?username=sudharsansaravanan2623&theme=light" alt="LeetCode Badge" />
+    <img width="95%" src="https://coding-profile.vercel.app/api?username=sudharsansaravanan2623&theme=Light" alt="LeetCode Badge" />
   </a>
 </div>
-
-
