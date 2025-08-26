@@ -24,6 +24,19 @@
 
 <hr/>
 
+<div align="center">
+    <a href="https://leetcode.com/u/sudharsansaravanan2623/">
+    <img width="52.5%" src="https://leetcard.jacoblin.cool/sudharsansaravanan2623?theme=default&font=" alt="LeetCode Badge" />
+  </a>
+  <img 
+    loading="lazy" width="42%"
+    src="https://montasim-github-profile-trophy.vercel.app/?username=SudharsanSaravanan&theme=flat&no-frame=true&row=2&column=4"  
+    alt="GitHub Profile Trophies" 
+  />
+</div>
+
+<br/>
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=24&duration=1&pause=1000&color=D3D3D3&width=500&lines=Tech+Stack:" alt="Tech Stack" />
 </p>
@@ -60,11 +73,3 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="65" height="65" alt="AWS"/><br><b>AWS (Cloud)</b></td>
 </tr>
 </table>
-
-<!--
-<div align="center">
-  <a href="https://leetcode.com/u/sudharsansaravanan2623/">
-    <img width="95%" src="https://coding-profile.vercel.app/api?username=sudharsansaravanan2623&theme=Light" alt="LeetCode Badge" />
-  </a>
-</div>
--->
