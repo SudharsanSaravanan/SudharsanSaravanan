@@ -22,8 +22,6 @@
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudharsanSaravanan" />
 </div>
 
-<hr/>
-
 <div align="center">
   <img 
     loading="lazy" width="95%"
