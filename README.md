@@ -25,12 +25,9 @@
 <hr/>
 
 <div align="center">
-    <a href="https://leetcode.com/u/sudharsansaravanan2623/">
-    <img width="52.5%" src="https://leetcard.jacoblin.cool/sudharsansaravanan2623?theme=default&font=" alt="LeetCode Badge" />
-  </a>
   <img 
-    loading="lazy" width="42%"
-    src="https://montasim-github-profile-trophy.vercel.app/?username=SudharsanSaravanan&theme=flat&no-frame=true&row=2&column=4"  
+    loading="lazy" width="95%"
+    src="https://montasim-github-profile-trophy.vercel.app/?username=SudharsanSaravanan&theme=flat&no-frame=true&row=1&column=8"  
     alt="GitHub Profile Trophies" 
   />
 </div>
