@@ -16,9 +16,9 @@
 </p>
 
 <div align="center">
+  <img width="95%" src="https://nirzak-streak-stats.vercel.app/?user=SudharsanSaravanan&show_icons=true&hide_border=true&count_private=true" />
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=github-light&hide_border=true&area=true" />
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudharsanSaravanan" />
-  <img width="95%" src="https://nirzak-streak-stats.vercel.app/?user=SudharsanSaravanan&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
 <div align="center">
