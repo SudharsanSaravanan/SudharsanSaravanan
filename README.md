@@ -1,4 +1,4 @@
-<!-- Fortis Fortuna Banner -->
+ <!-- Fortis Fortuna Banner -->
 <p align="center">
   <img src="assets/fortis_fortuna.gif" width="1000" alt="Fortune Fortis Adiuvat neon design" />
 </p>
@@ -19,7 +19,7 @@
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=SudharsanSaravanan&show_icons=true&hide_border=true&locale=en" alt="GitHub Stats" />
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=SudharsanSaravanan&show_icons=true&hide_border=true&count_private=true" />
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsanSaravanan&theme=github-light&hide_border=true&area=true" />
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudharsanSaravanan" />
+  <!-- <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudharsanSaravanan" /> -->
 </div>
 
 <div align="center">
@@ -29,6 +29,15 @@
     alt="GitHub Profile Trophies" 
   />
 </div>
+
+<br/>
+<br/>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=24&duration=1&pause=1000&color=D3D3D3&vCenter=false&center=false&width=500&lines=Open+Source+Contribution+Badges:" alt="GitHub Insights" />
+</p>
+
+[![An image of @sudharsansaravanan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudharsansaravanan)](https://holopin.io/@sudharsansaravanan)
 
 <br/>
 
