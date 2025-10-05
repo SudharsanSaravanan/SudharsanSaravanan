@@ -31,7 +31,6 @@
 </div>
 
 <br/>
-<br/>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=24&duration=1&pause=1000&color=D3D3D3&vCenter=false&center=false&width=500&lines=Open+Source+Contribution+Badges:" alt="GitHub Insights" />
