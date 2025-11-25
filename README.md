@@ -50,7 +50,6 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++ (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/haskell.svg" width="65" height="65" alt="Python"/><br><b>Haskell (Language)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="65" height="65" alt="TypeScript"/><br><b>TypeScript (Language)</b></td>
    <td align="center"><img src="https://skillicons.dev/icons?i=solidity" width="65" height="65" alt="Solidity"/><br><b>Solidity (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML (Markup)</b></td>
