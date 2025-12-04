@@ -58,6 +58,8 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="65" height="65" alt="Tailwind"/><br><b>Tailwind (Framework)</b></td>
    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js"/><br><b>Next.js (Framework)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="Node.js"/><br><b>Node.js (Runtime)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="65" height="65" alt="Docker"/><br><b>Docker (Containerization)</b></td>
+   <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Podman.svg" width="65" height="65" alt="Podman"/><br><b>Podman (Container Engine)</b></td>
    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65" height="65" alt="MySQL"/><br><b>MySQL (Database)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="65" height="65" alt="Firebase"/><br><b>Firebase (Platform)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" width="65" height="65" alt="Firebase"/><br><b>Cloudinary (Media Platform)</b></td>
