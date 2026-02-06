@@ -44,40 +44,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=24&duration=1&pause=1000&color=D3D3D3&width=500&lines=Tech+Stack:" alt="Tech Stack" />
 </p>
 
-<table align="center">
-<tr>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C (Language)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++ (Language)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python (Language)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/haskell.svg" width="65" height="65" alt="Python"/><br><b>Haskell (Language)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="65" height="65" alt="TypeScript"/><br><b>TypeScript (Language)</b></td>
-   <td align="center"><img src="https://skillicons.dev/icons?i=solidity" width="65" height="65" alt="Solidity"/><br><b>Solidity (Language)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML (Markup)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="65" height="65" alt="CSS"/><br><b>CSS (Stylesheet)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="65" height="65" alt="React"/><br><b>React (Library)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="65" height="65" alt="Tailwind"/><br><b>Tailwind (Framework)</b></td>
-   <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js"/><br><b>Next.js (Framework)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="Node.js"/><br><b>Node.js (Runtime)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="65" height="65" alt="Docker"/><br><b>Docker (Containerization)</b></td>
-   <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Podman.svg" width="65" height="65" alt="Podman"/><br><b>Podman (Container Engine)</b></td>
-   <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65" height="65" alt="MySQL"/><br><b>MySQL (Database)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="65" height="65" alt="Firebase"/><br><b>Firebase (Platform)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" width="65" height="65" alt="Firebase"/><br><b>Cloudinary (Media Platform)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB (Database)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="65" height="65" alt="Arduino"/><br><b>Arduino (IoT)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="65" height="65" alt="GitHub"/><br><b>GitHub (Collaboration)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="65" height="65" alt="Git"/><br><b>Git (VCS)</b></td>
-   <td align="center"><img src="https://skillicons.dev/icons?i=remix" width="65" height="65" alt="Remix"/><br><b>Remix (IDE)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="65" height="65" alt="Eclipse"/><br><b>Eclipse (IDE)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="65" height="65" alt="VS Code"/><br><b>VS Code (IDE)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" width="65" height="65" alt="MATLAB"/><br><b>MATLAB (Tool)</b></td>
-   <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel"/><br><b>Vercel (Hosting)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="65" height="65" alt="Ubuntu"/><br><b>Ubuntu (OS)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="65" height="65" alt="AWS"/><br><b>AWS (Cloud)</b></td>
-</tr>
-</table>
-
-### 🧠 Languages
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -85,7 +52,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 
-### 🌐 Web & Frameworks
+### Web & Frameworks
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -93,13 +60,13 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
-### 🗄️ Databases & Backend
+### Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
 
-### ⚙️ DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -107,7 +74,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-### 🛠️ IDEs & Platforms
+### IDEs & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
