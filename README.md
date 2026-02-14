@@ -9,6 +9,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=22&duration=3000&pause=1500&color=FFFFF0&vCenter=true&width=900&lines=Full+Stack+Web+and+App+Developer;CSE+Undergrad+at+Amrita+Vishwa+Vidyapeetham,+Coimbatore;Tech+Lead+–+Rotaract+Club+of+Cosmopolitan,+Coimbatore;Passionate+Open+Source+Contributor+%26+Tech+Explorer;Always+Learning,+Always+Building,+Always+Growing." alt="Typing SVG" />
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=SudharsanSaravanan)
+
 <hr/>
 
 <p align="left">
